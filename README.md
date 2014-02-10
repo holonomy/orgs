@@ -1,4 +1,4 @@
-# levelgraph-orgs
+# orgs
 
 store, retrieve, delete, and search [org:Organization](http://www.w3.org/TR/vocab-org/#org:Organization)s using [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
 
@@ -7,7 +7,7 @@ store, retrieve, delete, and search [org:Organization](http://www.w3.org/TR/voca
 ```
 var level = require('level');
 var db = level('./mydb');
-var orgs = require('levelgraph-orgs')(db, opts);
+var orgs = require('orgs')(db, opts);
 ```
 
 ### orgs.put(obj, function (err, obj) {

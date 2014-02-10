@@ -1,5 +1,5 @@
 {
-  "name": "levelgraph-orgs",
+  "name": "orgs",
   "version": "0.0.0",
   "description": "put/get/del/search for org:Organizations using levelgraph-jsonld",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/holonomy/levelgraph-orgs.git"
+    "url": "git://github.com/holonomy/orgs.git"
   },
   "keywords": [
     "level",
@@ -25,6 +25,6 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/holonomy/levelgraph-orgs/issues"
+    "url": "https://github.com/holonomy/orgs/issues"
   }
 }
